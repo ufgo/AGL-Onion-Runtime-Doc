@@ -90,6 +90,7 @@ Commands → Onion_Export
 ```
 animations.json
 symbols.json
+и графика в виде png файлов
 ```
 
 ---
@@ -104,12 +105,12 @@ tools/animate_export_support
 
 ### **Анимации**
 ```
-python convert_animations.py -i data_for_export/animations.json -o data_for_export/animations.onionanim
+python convert_animations.py -i путь_входных_данных/animations.json -o путь_выходных_данных/animations.onionanim
 ```
 
 ### **Символы**
 ```
-python convert_symbols.py -i data_for_export/symbols.json -o data_for_export/symbols.onionsymbol
+python convert_symbols.py -i путь_входных_данных/symbols.json -o путь_выходных_данных/symbols.onionsymbol
 ```
 
 ---
@@ -126,7 +127,7 @@ python convert_symbols.py -i data_for_export/symbols.json -o data_for_export/sym
 
 - путь к `animations.onionanim`
 - путь к `symbols.onionsymbol`
-- путь к атласу PNG-графики
+- путь к *.atlas 
 
 Добавить компонент **Onion Model** и назначить сцену.
 
