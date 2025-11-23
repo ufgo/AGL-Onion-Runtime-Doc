@@ -15,12 +15,12 @@
 
 ### **macOS**
 ```
-~/Library/Application Support/Adobe/Animate
+~/Library/Application Support/Adobe/Animate/Configuration
 ```
 
 ### **Windows**
 ```
-C:\Users\<ТВОЁ_ИМЯ>\AppData\Local\Adobe\Animate
+C:\Users\<ТВОЁ_ИМЯ>\AppData\Local\Adobe\Animate/Configuration
 ```
 
 
