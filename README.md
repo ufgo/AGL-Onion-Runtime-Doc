@@ -18,6 +18,12 @@
 ~/Library/Application Support/Adobe/Animate
 ```
 
+### **Windows**
+```
+C:\Users\<ТВОЁ_ИМЯ>\AppData\Local\Adobe\Animate
+```
+
+
 После этого в Animate появится меню:
 
 ```
