@@ -127,7 +127,7 @@ python convert_symbols.py -i путь_входных_данных/symbols.json -
 
 - путь к `animations.onionanim`
 - путь к `symbols.onionsymbol`
-- путь к *.atlas 
+- путь к `*.atlas `
 
 Добавить компонент **Onion Model** и назначить сцену.
 
