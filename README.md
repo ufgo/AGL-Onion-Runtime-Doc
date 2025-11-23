@@ -1,4 +1,4 @@
-# 📘 README — Экспорт анимаций из Adobe Animate в Onion Runtime (Defold)
+# 📘 README — Экспорт анимаций из Adobe Animate в [Onion Runtime (Defold)](https://gitlab.com/anisin_a/agl-onion-runtime)
 
 Этот документ описывает короткий рабочий процесс подготовки анимаций в **Adobe Animate**, экспорт в формат Onion, конвертацию в бинарные `.onionanim` / `.onionsymbol` и импорт в **Defold**.
 
